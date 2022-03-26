@@ -1,5 +1,5 @@
 .main{
-    background-image: url(images/bg-pattern-top-desktop.svg), url(images/bg-pattern-bottom-desktop.svg);
+    background-image: url(bg-pattern-top-desktop.svg), url(bg-pattern-bottom-desktop.svg);
     background-repeat: no-repeat;
     background-position: left 70% top -10%, right 10% bottom 10%;
     height: 100%;
